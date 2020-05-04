@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# coursera-HTML-CSS-JavaScript
+coursera assignment repository
